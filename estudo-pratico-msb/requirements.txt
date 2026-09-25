@@ -1,0 +1,4 @@
+# O projeto utiliza apenas bibliotecas da biblioteca padrão do Python (os, sys).
+# Caso utilize rich ou customtkinter futuramente, declare aqui:
+# rich>=13.0.0
+# customtkinter>=5.2.0
